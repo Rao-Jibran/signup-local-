@@ -1,0 +1,31 @@
+.bg{
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.body{
+    background-color: white;
+    display: flex;
+     flex-direction: column; 
+     /* align-items: center; 
+     justify-content: center;  */
+     height: 280px;
+     margin-top: 150px;
+     margin-left: 390px;
+     margin-right: 390px;
+
+}
+
+.inp1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
+.inp2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    width: 2px;
+    border-top: none;
+    
+}
